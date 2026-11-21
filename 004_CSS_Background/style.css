@@ -1,0 +1,17 @@
+body {
+  background: url(bg2.jpg);
+  background-attachment: scroll;
+}
+div {
+  background-color: greenyellow;
+  background-image: url(css.png);
+  background-size: 150px 150px;
+  /* background-repeat: repeat-x;
+  background-repeat: repeat-y; */
+  background-repeat: no-repeat;
+
+  background-position: center right;
+
+  /* Shorthand 
+ background: brown url(css.png) no-repeat center;*/
+}
